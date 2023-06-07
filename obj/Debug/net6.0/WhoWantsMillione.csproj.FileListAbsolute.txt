@@ -1,0 +1,15 @@
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\bin\Debug\net6.0\WhoWantsMillione.exe
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\bin\Debug\net6.0\WhoWantsMillione.deps.json
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\bin\Debug\net6.0\WhoWantsMillione.runtimeconfig.json
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\bin\Debug\net6.0\WhoWantsMillione.dll
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\bin\Debug\net6.0\WhoWantsMillione.pdb
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\obj\Debug\net6.0\WhoWantsMillione.csproj.AssemblyReference.cache
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\obj\Debug\net6.0\WhoWantsMillione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\obj\Debug\net6.0\WhoWantsMillione.AssemblyInfoInputs.cache
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\obj\Debug\net6.0\WhoWantsMillione.AssemblyInfo.cs
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\obj\Debug\net6.0\WhoWantsMillione.csproj.CoreCompileInputs.cache
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\obj\Debug\net6.0\WhoWantsMillione.dll
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\obj\Debug\net6.0\refint\WhoWantsMillione.dll
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\obj\Debug\net6.0\WhoWantsMillione.pdb
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\obj\Debug\net6.0\WhoWantsMillione.genruntimeconfig.cache
+C:\Users\dkureli\source\repos\WhoWantsMillione\WhoWantsMillione\obj\Debug\net6.0\ref\WhoWantsMillione.dll
